@@ -216,6 +216,8 @@ github.com/lbryio/chainquery v1.9.0 h1:NfBZ3eKYwD3PqXU/vt+2tF3ox3WUWoW4J5YdEQ0rx
 github.com/lbryio/chainquery v1.9.0/go.mod h1:7G8l7jNtANS1I7fQOvtzbiHsv6qKVmN4codXHc3C4kk=
 github.com/lbryio/errors.go v0.0.0-20180223142025-ad03d3cc6a5c h1:BhdcWGsuKif/XoSZnqVGNqJ1iEmH0czWR5upj+AuR8M=
 github.com/lbryio/errors.go v0.0.0-20180223142025-ad03d3cc6a5c/go.mod h1:muH7wpUqE8hRA3OrYYosw9+Sl681BF9cwcjzE+OCNK8=
+github.com/lbryio/go_mediainfo v0.0.0-20200109212001-4c7318fd92ad h1:sfsYsbQXjA1uE51yFNtv4k79yMBzeGgAusK6KrLrcYs=
+github.com/lbryio/go_mediainfo v0.0.0-20200109212001-4c7318fd92ad/go.mod h1:xJtOuuGAo32jLOmrdBWRCURfahqz6OvK/hdSLhmYA38=
 github.com/lbryio/lbry.go v1.1.1-0.20190825202001-8fa28d3d656f h1:ovd2wPXzkT80vdP/FX5xcQeXu0i9RAo80SQ6qIsrAjM=
 github.com/lbryio/lbry.go v1.1.1-0.20190825202001-8fa28d3d656f/go.mod h1:JtyI30bU51rm0LZ/po3mQuzf++14OWb6kR/6mMRAmKU=
 github.com/lbryio/lbry.go v1.1.2 h1:Dyxc+glT/rVWJwHfIf7vjlPYYbjzrQz5ARmJd5Hp69c=
