@@ -31,7 +31,7 @@ require (
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect
 	go.uber.org/atomic v1.5.1
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
+	golang.org/x/crypto v0.0.0-20200423211502-4bdfaf469ed5
 	golang.org/x/lint v0.0.0-20191125180803-fdd1cda4f05f // indirect
 	golang.org/x/tools v0.0.0-20191227053925-7b8e75db28f4 // indirect
 	google.golang.org/appengine v1.6.2 // indirect
